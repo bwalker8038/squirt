@@ -28,6 +28,8 @@
       ...
       ...
       
+      // squirt.into(containerId, templateAlias, viewDataObj);
+      
       squirt.into("#boy","alpha",{name:"Jack"});
       squirt.into("#girl","beta",{name:"jill"});
 
